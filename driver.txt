@@ -1,0 +1,13 @@
+1 superu dandanakka PRIMESUV 7 10 5.0 2
+2 fun dandanakka PRIMESEDAN 9 -1 5.0 2
+3 li@gmail.com dandanakka PRIMESUV 9 -1 5.0 1
+4 lio dandanakka SEDAN 1 -1 5.0 2
+5 lio dandanakka SUV 5 -1 0 0
+6 kts jummalollaiks SUV 3 -1 0 0
+7 Amrit sindushal SUV 11 -1 5.0 2
+8 Vijay vk123456 PRIMESEDAN 20 -1 0 0
+9 kts kts12345 PRIMESUV 21 -1 0 0
+10 sidd sidd1234 SEDAN 9 -1 5.0 1
+11 vijay vijay123 SEDAN 5 -1 5.0 1
+12 kts kts12345 PRIMESEDAN 7 -1 0 0
+13 cproj dandanakka SUV 5 -1 0 0

@@ -1,0 +1,14 @@
+kio@gmail.com dandanakka 1 25.0 0
+summa@gmail.com dandanakka -1 25.0 0
+r@gmail.com dandanakka -1 25.0 0
+summ@gmail.com dandanakka -1 0 0
+fun@gmail.com dandanakka -1 0 0
+u@gmail.com dandanakka -1 25.0 0
+amritkrishna3432@gmail.com amrit1234 -1 0 0
+vk@gmail.com testcase1 -1 0 0
+sid1@gmail.com sidd1234 -1 0 0
+kts1@gmail.com kts12345 -1 0 0
+vk12@gmail.com vijay123 -1 0 0
+sidda1234@gmail.com siddharth -1 0 0
+ktharu123@gmail.com ktharun12 -1 0 0
+vijay1234@gmail.com cproject12 -1 25.0 0
